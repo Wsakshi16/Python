@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 17 09:17:39 2023
 
-@author: aditya
+@author: Sakshi
 """
 
 #####################Itertools##########################
