@@ -2,7 +2,7 @@
 """
 Created on Wed May 10 15:47:54 2023
 
-@author: adity
+@author: Sakshi
 """
 
 #Arrays in NumPy
