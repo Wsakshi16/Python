@@ -4,7 +4,7 @@ Created on Thu Apr 13 09:13:17 2023
 
 Exception Handling
 
-@author: aditya
+@author: Sakshi
 """
 #the error signifies a situation that mostly happens due to the absence of the system resources
 #Exception are the issues that can appear at runtime and compile time
